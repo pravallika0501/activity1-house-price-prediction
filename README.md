@@ -139,3 +139,8 @@ Follow these steps to train the model:
    mse, r2 = evaluate_model(model, X_test, y_test)
    print(ff"Model Performance: MSE = {mse}, R-squared = {r2}")
    ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
